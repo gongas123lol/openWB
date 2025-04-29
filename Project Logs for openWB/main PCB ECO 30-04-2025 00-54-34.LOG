@@ -1,0 +1,25 @@
+Added Component: Designator=R1(RESAD1520W63L600D230)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CF14JT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cf14jt1k00/stackpole-electronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cs.seielect.com/catalog/SEI-CF_CFM.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-CF14JT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/CF14JT1K00?qs=FESYatJ8odLLAkjsom%2FJYQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=APE/IP Pin=IC1-32
+Added Pin To Net: NetName=APE/IP Pin=J3-1
+Added Net: Name=APE/IP
+Added Pin To Net: NetName=H+ Pin=J5-1
+Added Net: Name=H+
+Added Pin To Net: NetName=H-/GND Pin=J5-2
+Added Net: Name=H-/GND
+Added Pin To Net: NetName=IPN/VM Pin=IC1-20
+Added Pin To Net: NetName=IPN/VM Pin=J3-2
+Added Net: Name=IPN/VM
+Added Pin To Net: NetName=RT/IA Pin=J4-1
+Added Net: Name=RT/IA
+Added Pin To Net: NetName=UN/RE Pin=J4-2
+Added Net: Name=UN/RE
+Added Member To Class: ClassName=main Member=Component R1 10k
+Added Rule: Name=Schematic Supply Nets

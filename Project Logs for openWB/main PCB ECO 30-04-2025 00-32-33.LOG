@@ -1,0 +1,65 @@
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Added Component: Designator=IC1(QFP80P900X900X160-32N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C8051F314-GQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c8051f314-gq/silicon-labs?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.silabs.com/documents/public/data-sheets/C8051F31x.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Silicon Labs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C8051F314-GQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "634-C8051F314-GQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Silicon-Labs/C8051F314-GQ?qs=vyiwtxxqSmTKpdLyYs0rcg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=/RST Pin=IC1-7
+Added Net: Name=/RST
+Added Pin To Net: NetName=/SS Pin=IC1-17
+Added Net: Name=/SS
+Added Pin To Net: NetName=CF Pin=IC1-26
+Added Net: Name=CF
+Added Pin To Net: NetName=CM Pin=IC1-11
+Added Net: Name=CM
+Added Pin To Net: NetName=DIAHD Pin=IC1-6
+Added Net: Name=DIAHD
+Added Pin To Net: NetName=DIAHG Pin=IC1-4
+Added Net: Name=DIAHG
+Added Pin To Net: NetName=GNDS Pin=IC1-28
+Added Net: Name=GNDS
+Added Pin To Net: NetName=GND Pin=IC1-29
+Added Net: Name=GND
+Added Pin To Net: NetName=IA Pin=IC1-2
+Added Net: Name=IA
+Added Pin To Net: NetName=IP Pin=IC1-32
+Added Net: Name=IP
+Added Pin To Net: NetName=OSZ Pin=IC1-3
+Added Net: Name=OSZ
+Added Pin To Net: NetName=RF Pin=IC1-27
+Added Net: Name=RF
+Added Pin To Net: NetName=RM Pin=IC1-10
+Added Net: Name=RM
+Added Pin To Net: NetName=RS Pin=IC1-8
+Added Net: Name=RS
+Added Pin To Net: NetName=SCK Pin=IC1-13
+Added Net: Name=SCK
+Added Pin To Net: NetName=SI Pin=IC1-15
+Added Net: Name=SI
+Added Pin To Net: NetName=SO Pin=IC1-14
+Added Net: Name=SO
+Added Pin To Net: NetName=UA Pin=IC1-23
+Added Net: Name=UA
+Added Pin To Net: NetName=UB Pin=IC1-30
+Added Net: Name=UB
+Added Pin To Net: NetName=UN Pin=IC1-31
+Added Net: Name=UN
+Added Pin To Net: NetName=UP Pin=IC1-22
+Added Net: Name=UP
+Added Pin To Net: NetName=UR Pin=IC1-12
+Added Net: Name=UR
+Added Pin To Net: NetName=US Pin=IC1-21
+Added Net: Name=US
+Added Pin To Net: NetName=VCCSS Pin=IC1-18
+Added Net: Name=VCCSS
+Added Pin To Net: NetName=VCCS Pin=IC1-5
+Added Net: Name=VCCS
+Added Pin To Net: NetName=VCC Pin=IC1-19
+Added Net: Name=VCC
+Added Pin To Net: NetName=VM Pin=IC1-20
+Added Net: Name=VM
+Added Member To Class: ClassName=main Member=Component IC1 C8051F314-GQ

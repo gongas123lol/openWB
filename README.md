@@ -6,11 +6,8 @@
 
 A revised component selection and design changes aimed at making the hardware easier to use.
 
-![Altium Designer](https://img.shields.io/badge/EDA-Altium_Designer-A5915F?style=for-the-badge)
-![Hardware](https://img.shields.io/badge/Project-Hardware-2563EB?style=for-the-badge)
-![Base](https://img.shields.io/badge/Base-SLC_Free-334155?style=for-the-badge)
+<img width="1284" height="825" alt="image" src="https://github.com/user-attachments/assets/0b3c1f1c-1134-49bc-8306-e82a3570743c" />
 
-[About](#about-the-project) · [Design](#design-changes) · [Files](#project-files) · [Getting started](#getting-started)
 
 </div>
 

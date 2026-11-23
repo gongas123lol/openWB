@@ -2,86 +2,86 @@
 
 # openWB
 
-### Controlador wideband · Hardware baseado no SLC Free
+### Wideband controller · Hardware based on SLC Free
 
-Uma nova seleção de componentes e alterações de design, com o objetivo de tornar a utilização mais simples.
+A revised component selection and design changes aimed at making the hardware easier to use.
 
 ![Altium Designer](https://img.shields.io/badge/EDA-Altium_Designer-A5915F?style=for-the-badge)
-![Hardware](https://img.shields.io/badge/Projeto-Hardware-2563EB?style=for-the-badge)
+![Hardware](https://img.shields.io/badge/Project-Hardware-2563EB?style=for-the-badge)
 ![Base](https://img.shields.io/badge/Base-SLC_Free-334155?style=for-the-badge)
 
-[Sobre](#sobre-o-projeto) · [Design](#o-que-muda) · [Ficheiros](#ficheiros-do-projeto) · [Começar](#como-explorar-o-projeto)
+[About](#about-the-project) · [Design](#design-changes) · [Files](#project-files) · [Getting started](#getting-started)
 
 </div>
 
 ---
 
-## Sobre o projeto
+## About the project
 
-O **openWB** é um projeto de hardware para um controlador de sonda lambda de banda larga (*wideband*), baseado no **SLC Free da 14Point7**. Este tipo de controlador permite acompanhar a mistura ar/combustível através da leitura de uma sonda de oxigénio.
+**openWB** is a hardware project for a wideband lambda sensor controller, based on **14Point7's SLC Free**. This type of controller allows the air/fuel mixture to be monitored using an oxygen sensor.
 
-O projeto parte do design SLC Free e adapta-o com **uma escolha diferente de componentes e alterações ao design da placa**, tendo como objetivo facilitar a sua utilização e integração. Este repositório reúne o esquema elétrico, o layout da PCB e os ficheiros de saída do projeto em Altium Designer.
+The project adapts the SLC Free design with **a different selection of components and changes to the board design**, aiming to make it easier to use and integrate. This repository contains the electrical schematic, PCB layout, and exported project outputs from Altium Designer.
 
-## O que muda
+## Design changes
 
-| Área | Abordagem do openWB |
+| Area | openWB approach |
 | --- | --- |
-| **Componentes** | Seleção de componentes diferente da utilizada no design de referência. |
-| **Design da placa** | Alterações ao circuito e à implementação física para acomodar as opções do projeto. |
-| **Utilização** | Adaptações orientadas para tornar o hardware mais prático de utilizar e integrar. |
-| **Ficheiros de projeto** | Esquema e PCB editáveis em Altium Designer, acompanhados de outputs de fabrico e montagem. |
+| **Components** | A component selection that differs from the reference design. |
+| **Board design** | Changes to the circuit and physical implementation to accommodate the project's design choices. |
+| **Usability** | Adaptations intended to make the hardware more practical to use and integrate. |
+| **Project files** | Editable Altium Designer schematic and PCB files, alongside fabrication and assembly outputs. |
 
-Os ficheiros de esquema, PCB e lista de materiais documentam a implementação concreta do openWB. A compatibilidade elétrica, a pinagem e os requisitos de firmware devem ser confirmados para esta implementação; a origem no SLC Free, por si só, não confirma que sejam iguais aos do projeto original.
+The schematic, PCB, and bill of materials document the actual openWB implementation. Electrical compatibility, pin assignments, and firmware requirements should be checked for this implementation; its SLC Free origins alone do not establish that these are identical to the original project.
 
-## Ficheiros do projeto
+## Project files
 
-| Ficheiro / pasta | Conteúdo |
+| File / folder | Contents |
 | --- | --- |
-| [`openWB.PrjPcb`](openWB.PrjPcb) | Projeto principal do Altium Designer. |
-| [`main.SchDoc`](main.SchDoc) | Esquema elétrico. |
-| [`main.PcbDoc`](main.PcbDoc) | Layout e encaminhamento da PCB. |
-| [`Job3.OutJob`](Job3.OutJob) | Configuração de geração de outputs. |
-| [`Project Outputs for openWB/`](Project%20Outputs%20for%20openWB/) | Gerbers, ficheiros de furação, pick and place e outros outputs exportados. |
-| [`Project Outputs for Free Documents/`](Project%20Outputs%20for%20Free%20Documents/) | Lista de materiais e ficheiros adicionais de montagem. |
-| [`History/`](History/) | Histórico local de versões guardadas pelo Altium. |
-| [`Project Logs for openWB/`](Project%20Logs%20for%20openWB/) | Registos de alterações gerados pelo Altium. |
+| [`openWB.PrjPcb`](openWB.PrjPcb) | Main Altium Designer project. |
+| [`main.SchDoc`](main.SchDoc) | Electrical schematic. |
+| [`main.PcbDoc`](main.PcbDoc) | PCB layout and routing. |
+| [`Job3.OutJob`](Job3.OutJob) | Output generation configuration. |
+| [`Project Outputs for openWB/`](Project%20Outputs%20for%20openWB/) | Gerbers, drill files, pick and place files, and other exported outputs. |
+| [`Project Outputs for Free Documents/`](Project%20Outputs%20for%20Free%20Documents/) | Bill of materials and additional assembly files. |
+| [`History/`](History/) | Local revision history saved by Altium. |
+| [`Project Logs for openWB/`](Project%20Logs%20for%20openWB/) | Change logs generated by Altium. |
 
-### Acesso rápido
+### Quick access
 
-- **[Lista de materiais — BOM](Project%20Outputs%20for%20Free%20Documents/BOM/Bill%20of%20Materials-openWB.xlsx)**
+- **[Bill of materials — BOM](Project%20Outputs%20for%20Free%20Documents/BOM/Bill%20of%20Materials-openWB.xlsx)**
 - **[Pick and place — CSV](Project%20Outputs%20for%20openWB/Pick%20Place/Pick%20Place%20for%20main.csv)**
-- **[Documento exportado — PDF](Project%20Outputs%20for%20openWB/Job4.PDF)**
+- **[Exported document — PDF](Project%20Outputs%20for%20openWB/Job4.PDF)**
 
-## Como explorar o projeto
+## Getting started
 
-1. Clona o repositório:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/gongas123lol/openWB.git
    ```
 
-2. Abre `openWB.PrjPcb` no **Altium Designer**.
-3. Consulta `main.SchDoc` para compreender o circuito e as ligações.
-4. Abre `main.PcbDoc` para explorar a disposição dos componentes e o layout.
-5. Consulta a BOM e os outputs para analisar os componentes e a montagem.
+2. Open `openWB.PrjPcb` in **Altium Designer**.
+3. Review `main.SchDoc` to understand the circuit and its connections.
+4. Open `main.PcbDoc` to explore component placement and board layout.
+5. Consult the BOM and exported outputs to review the components and assembly information.
 
-Se alterares o projeto, volta a gerar os outputs a partir da revisão que pretendes fabricar. Os ficheiros exportados incluídos no repositório são snapshots e podem não refletir alterações posteriores ao esquema ou à PCB.
+If you modify the project, regenerate the outputs from the revision you intend to manufacture. The exported files included in this repository are snapshots and may not reflect later changes to the schematic or PCB.
 
-## Documentação técnica
+## Technical documentation
 
-Este repositório centra-se no **hardware**. Não inclui atualmente código-fonte de firmware nem um guia completo de configuração, calibração e ligação. O esquema e a BOM são o ponto de partida para verificar os componentes, conectores e ligações desta versão.
+This repository focuses on **hardware**. It does not currently include firmware source code or a complete setup, calibration, and wiring guide. The schematic and BOM are the starting point for checking the components, connectors, and connections used in this version.
 
-## Origem e créditos
+## Origins and credits
 
-O openWB baseia-se no **SLC Free**, desenvolvido pela **14Point7**. O crédito pelo design de referência pertence aos seus autores; o openWB reúne as escolhas de componentes e adaptações de design deste projeto.
+openWB is based on **SLC Free**, developed by **14Point7**. Credit for the reference design belongs to its original authors; openWB brings together this project's component choices and design adaptations.
 
-- [14Point7 — documentação, código-fonte e ficheiros do SLC Free](https://www.14point7.com/pages/software-and-documentation)
-- [Repositório openWB](https://github.com/gongas123lol/openWB)
+- [14Point7 — SLC Free documentation, source code, and design files](https://www.14point7.com/pages/software-and-documentation)
+- [openWB repository](https://github.com/gongas123lol/openWB)
 
 ---
 
 <div align="center">
 
-**openWB** · Do design de referência a uma implementação adaptada.
+**openWB** · From a reference design to an adapted implementation.
 
 </div>

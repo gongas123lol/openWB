@@ -77,8 +77,5 @@ openWB is based on **SLC Free**, developed by **14Point7**. Credit for the refer
 
 ---
 
-<div align="center">
+<img width="1440" height="616" alt="image" src="https://github.com/user-attachments/assets/09f6f173-c1d9-4579-a4f6-a6408e888bea" />
 
-**openWB** · From a reference design to an adapted implementation.
-
-</div>

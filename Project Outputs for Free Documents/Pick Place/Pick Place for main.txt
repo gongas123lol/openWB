@@ -1,0 +1,41 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\openWB\Project Outputs for Free Documents\Pick Place\Pick Place for main.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/07/25
+Time:       22:14
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment         Layer    Footprint                  Center-X(mm) Center-Y(mm) Rotation Description                   
+J1         43045-1200      TopLayer 43045-12(00,01,02,10)      164.4420     104.6410     90       Connector                     
+R13        1kR             TopLayer RES_1206                   130.4290     106.2990     180      "Resistor SMD 1206"           
+R10        10kR            TopLayer RES_1206                   154.8130     89.1540      270      "Resistor SMD 1206"           
+R8         1kR             TopLayer RES_1206                   112.6490     89.1540      270      "Resistor SMD 1206"           
+R7         120kR           TopLayer RES_1206                   115.0620     98.4560      270      "Resistor SMD 1206"           
+R4         10kR            TopLayer RES_1206                   110.7440     106.4260     270      "Resistor SMD 1206"           
+C8         100nF           TopLayer CAP_1206                   150.1081     89.5040      90       "Capacitor SMD 1206"          
+C6         1uF             TopLayer CAP_1206                   110.6170     98.8060      270      "Capacitor SMD 1206"          
+C3         UHE2A470MPD     TopLayer CAPPRD500W60D1025H1400     129.3730     113.6650     0        "Capacitor Polarised"         
+C1         UHE2A470MPD     TopLayer CAPPRD500W60D1025H1400     115.0220     120.6500     0        "Capacitor Polarised"         
+R9         1kR             TopLayer RES_1206                   126.7037     89.1540      90       "Resistor SMD 1206"           
+R5         1kR             TopLayer RES_1206                   131.3886     89.1540      90       "Resistor SMD 1206"           
+J2         61900519521     TopLayer 61900519521                150.6220     84.5820      0        Connector                     
+C7         100nF           TopLayer CAP_1206                   136.0534     89.5040      90       "Capacitor SMD 1206"          
+R12        1kR             TopLayer RES_1206                   145.4432     89.1540      90       "Resistor SMD 1206"           
+R6         1kR             TopLayer RES_1206                   117.0940     105.7910     270      "Resistor SMD 1206"           
+D2         P6KE24A         TopLayer DIOAD1936W88L640D324       145.8440     116.4590     180      "TVS Diode (Uni-directional)" 
+D1         P6KE24A         TopLayer DIOAD1936W88L640D324       145.8440     112.5110     180      "TVS Diode (Uni-directional)" 
+C10        100nF           TopLayer CAP_1206                   140.7383     89.5040      90       "Capacitor SMD 1206"          
+C4         100nF           TopLayer CAP_1206                   121.2850     107.6960     90       "Capacitor SMD 1206"          
+C2         100nF           TopLayer CAP_1206                   123.4440     122.1740     90       "Capacitor SMD 1206"          
+R3         61.9R           TopLayer RES_1206                   122.0188     89.1540      90       "Resistor SMD 1206"           
+R2         1kR             TopLayer RES_1206                   117.3339     89.1540      90       "Resistor SMD 1206"           
+Q1         IRF3710PBF      TopLayer TO254P483X1016X1994-3P     148.0820     122.6820     0        "MOSFET (N-Channel)"          
+IC2        LM7805          TopLayer TO254P470X990X1900-3P      135.1280     123.0630     0        "Integrated Circuit"          
+IC1        CY8C27443-24PXI TopLayer DIP780W50P254L3467H482Q28N 137.7950     99.5680      90       "Integrated Circuit"          
+D3         P6KE24A         TopLayer DIOAD1936W88L640D324       145.8440     108.5630     180      "TVS Diode (Uni-directional)" 
+C5         100nF           TopLayer CAP_1206                   126.7460     122.1740     90       "Capacitor SMD 1206"          

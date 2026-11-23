@@ -1,0 +1,159 @@
+Added Component: Designator=C1(CAPPRD750W85D1800H2700)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEU-EB2G470S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eeu-eb2g470s/panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1024.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "27mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEU-EB2G470S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-EEU-EB2G470S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/EEU-EB2G470S?qs=zDLUbuhEZ18fd2ElaST4rw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPPRD750W85D1800H2700)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "EEU-EB2G470S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eeu-eb2g470s/panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1024.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "27mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEU-EB2G470S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-EEU-EB2G470S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/EEU-EB2G470S?qs=zDLUbuhEZ18fd2ElaST4rw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_1206)
+Add component (AddParameter): Name = "Design Item ID"; Value = "CAP_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Schematic-Lib-PhilsLab.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_1206)
+Add component (AddParameter): Name = "Design Item ID"; Value = "CAP_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Schematic-Lib-PhilsLab.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_1206)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RES_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Schematic-Lib-PhilsLab.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_1206)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RES_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Schematic-Lib-PhilsLab.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_1206)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RES_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Schematic-Lib-PhilsLab.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_1206)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RES_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Schematic-Lib-PhilsLab.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_1206)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RES_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Schematic-Lib-PhilsLab.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=5v Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=5v Pin=J2-5
+Added Pin To Net: NetName=LSU_HEATER- Pin=Q1-2
+Added Pin To Net: NetName=pwr_gnd Pin=Q1-3
+Added Pin To Net: NetName=LSU_NERMST Pin=R4-1
+Added Pin To Net: NetName=5v Pin=R7-1
+Added Pin To Net: NetName=LSU_NERMST Pin=R7-2
+Added Pin To Net: NetName=LSU_NERMST Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=R4-2
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=IC1-25
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetIC1_17 Pin=IC1-17
+Added Pin To Net: NetName=NetIC1_17 Pin=R13-1
+Added Net: Name=NetIC1_17
+Added Pin To Net: NetName=NetIC1_24 Pin=IC1-24
+Added Pin To Net: NetName=NetIC1_24 Pin=R8-2
+Added Net: Name=NetIC1_24
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R13-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=SCL Pin=IC1-13
+Added Pin To Net: NetName=SCL Pin=J2-2
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=IC1-15
+Added Pin To Net: NetName=SDA Pin=J2-1
+Added Net: Name=SDA
+Added Pin To Net: NetName=XRES Pin=C8-1
+Added Pin To Net: NetName=XRES Pin=IC1-19
+Added Pin To Net: NetName=XRES Pin=J2-3
+Added Pin To Net: NetName=XRES Pin=R10-1
+Added Net: Name=XRES
+Added Member To Class: ClassName=main Member=Component C1 EEU-EB2G470S
+Added Member To Class: ClassName=main Member=Component C3 EEU-EB2G470S
+Added Member To Class: ClassName=main Member=Component C6 1uF
+Added Member To Class: ClassName=main Member=Component C8 100nF
+Added Member To Class: ClassName=main Member=Component R4 10kR
+Added Member To Class: ClassName=main Member=Component R7 120kR
+Added Member To Class: ClassName=main Member=Component R8 1kR
+Added Member To Class: ClassName=main Member=Component R10 10kR
+Added Member To Class: ClassName=main Member=Component R13 1kR

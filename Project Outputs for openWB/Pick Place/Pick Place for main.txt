@@ -1,0 +1,42 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\openWB\Project Outputs for openWB\Pick Place\Pick Place for main.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       28/07/25
+Time:       17:08
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment          Layer    Footprint                  Center-X(mil) Center-Y(mil) Rotation Description                     
+R1         CRCW121010R0FKEA TopLayer FP-CRCW1210-e3-MFG         6255.000      4790.000      270      "RES SMD 205K OHM 1% 1/2W 1993" 
+J1         43045-1200       TopLayer 43045-12(00,01,02,10)      6474.094      4119.724      90       Connector                       
+R13        1kR              TopLayer RES_1206                   5135.000      4185.000      180      "Resistor SMD 1206"             
+R10        10kR             TopLayer RES_1206                   6095.000      3510.000      270      "Resistor SMD 1206"             
+R8         1kR              TopLayer RES_1206                   4435.000      3510.000      270      "Resistor SMD 1206"             
+R7         120kR            TopLayer RES_1206                   4530.000      3876.220      270      "Resistor SMD 1206"             
+R4         10kR             TopLayer RES_1206                   4360.000      4190.000      270      "Resistor SMD 1206"             
+C8         100nF            TopLayer CAP_1206                   5909.768      3523.780      90       "Capacitor SMD 1206"            
+C6         1uF              TopLayer CAP_1206                   4355.000      3890.000      270      "Capacitor SMD 1206"            
+C3         UHE2A470MPD      TopLayer CAPPRD500W60D1025H1400     5093.425      4475.000      0        "Capacitor Polarised"           
+C1         UHE2A470MPD      TopLayer CAPPRD500W60D1025H1400     4528.425      4750.000      0        "Capacitor Polarised"           
+R9         1kR              TopLayer RES_1206                   4988.333      3510.000      90       "Resistor SMD 1206"             
+R5         1kR              TopLayer RES_1206                   5172.778      3510.000      90       "Resistor SMD 1206"             
+J2         61900519521      TopLayer 61900519521                5930.000      3330.000      0        Connector                       
+C7         100nF            TopLayer CAP_1206                   5356.435      3523.780      90       "Capacitor SMD 1206"            
+R12        1kR              TopLayer RES_1206                   5726.111      3510.000      90       "Resistor SMD 1206"             
+R6         1kR              TopLayer RES_1206                   4610.000      4165.000      270      "Resistor SMD 1206"
+D2         P6KE24A          TopLayer DIOAD1936W88L640D324       5741.890      4585.000      180      "TVS Diode (Uni-directional)"
+D1         P6KE24A          TopLayer DIOAD1936W88L640D324       5741.890      4429.567      180      "TVS Diode (Uni-directional)"   
+C10        100nF            TopLayer CAP_1206                   5540.879      3523.780      90       "Capacitor SMD 1206"            
+C4         100nF            TopLayer CAP_1206                   4775.000      4240.000      90       "Capacitor SMD 1206"            
+C2         100nF            TopLayer CAP_1206                   4860.000      4810.000      90       "Capacitor SMD 1206"            
+R3         61.9R            TopLayer RES_1206                   4803.889      3510.000      90       "Resistor SMD 1206"             
+R2         1kR              TopLayer RES_1206                   4619.444      3510.000      90       "Resistor SMD 1206"             
+Q1         IRF3710PBF       TopLayer TO254P483X1016X1994-3P     5830.000      4830.000      0        "MOSFET (N-Channel)"            
+IC2        LM7805           TopLayer TO254P470X990X1900-3P      5320.000      4845.000      0        "Integrated Circuit"            
+IC1        CY8C27443-24PXI  TopLayer DIP780W50P254L3467H482Q28N 5425.000      3920.000      90       "Integrated Circuit"            
+D3         P6KE24A          TopLayer DIOAD1936W88L640D324       5741.890      4274.134      180      "TVS Diode (Uni-directional)"   
+C5         100nF            TopLayer CAP_1206                   4990.000      4810.000      90       "Capacitor SMD 1206"            

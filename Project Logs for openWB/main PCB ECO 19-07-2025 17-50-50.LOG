@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPPRD750W85D1800H2700 New Footprint=CAPPRD500W60D1025H1400
+Change Component Footprint: Designator=C3 Old Footprint=CAPPRD750W85D1800H2700 New Footprint=CAPPRD500W60D1025H1400
+Change Component Comment : Designator=C1 Old Comment=EEU-EB2G470S New Comment=UHE2A470MPD
+Change Component Comment : Designator=C3 Old Comment=EEU-EB2G470S New Comment=UHE2A470MPD
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPPRD750W85D1800H2700"; UniqueID = "\DDZZFIKE" ("\DDZZFIKE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "UHE2A470MPD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/uhe2a470mpd/nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "14mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UHE2A470MPD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "647-UHE2A470MPD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=647-UHE2A470MPD"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPPRD750W85D1800H2700"; UniqueID = "\UZXESQEC" ("\UZXESQEC")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "UHE2A470MPD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/uhe2a470mpd/nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.nichicon.co.jp/english/products/pdfs/e-uhe.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "14mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "UHE2A470MPD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "647-UHE2A470MPD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=647-UHE2A470MPD"; VariantName = "[No Variations]"

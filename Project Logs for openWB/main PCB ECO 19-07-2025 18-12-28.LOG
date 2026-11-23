@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=12v_in Pin=J1-8
+Removed Pin From Net: NetName=pwr_gnd Pin=J1-9
+Removed Pin From Net: NetName=logic_gnd Pin=J1-10
+Removed Pin From Net: NetName=wb_sig Pin=J1-11
+Added Pin To Net: NetName=wb_sig Pin=J1-23
+Added Pin To Net: NetName=logic_gnd Pin=J1-24
+Added Pin To Net: NetName=pwr_gnd Pin=J1-25
+Added Pin To Net: NetName=12v_in Pin=J1-26
